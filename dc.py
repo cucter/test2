@@ -1,1 +1,2 @@
-new file`
+new fil,std1
+I am std1
